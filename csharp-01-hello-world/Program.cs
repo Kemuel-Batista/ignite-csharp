@@ -4,6 +4,9 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Hello World");
+        Carro carro = new Carro();
+
+        carro.Ligar();
+        carro.Desligar();
     }
 }

@@ -1,19 +1,25 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace csharp_01_hello_world;
+﻿namespace csharp_01_hello_world;
 class Carro
 {
-    void Ligar()
+    public void Ligar()
     {
         Console.WriteLine("Carro ligado!");
     }
 
-    void Desligar()
+    public void Desligar()
     {
         Console.WriteLine("Carro desligado!");
+    }
+
+    // Modificadores de acesso
+
+    private void Test1()
+    {
+        Console.WriteLine("Teste 1");
+    }
+
+    internal void Test2() 
+    {
+        Console.WriteLine("Teste 2");
     }
 }
