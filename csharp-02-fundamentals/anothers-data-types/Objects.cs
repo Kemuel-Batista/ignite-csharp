@@ -2,7 +2,7 @@
 
 public class Objects
 {
-    public void Main()
+    public static void ObjectsExample()
     {
         var minhaVariavel = new Carro();
 

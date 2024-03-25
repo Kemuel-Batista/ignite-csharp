@@ -4,7 +4,7 @@ namespace csharp_02_fundamentals.primitives_types;
 
 public class DatesAndTimes
 {
-    public void Main()
+    public static void DatesAndTimesExample()
     {
         DateOnly dia = new DateOnly(2023, 12, 1);
 

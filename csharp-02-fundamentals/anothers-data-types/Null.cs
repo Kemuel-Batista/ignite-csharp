@@ -2,7 +2,7 @@
 
 public class Null
 {
-    public void Main()
+    public static void NullExample()
     {
         int? idade = null;
 

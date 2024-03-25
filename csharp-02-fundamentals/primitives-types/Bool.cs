@@ -2,7 +2,7 @@
 
 public class Bool
 {
-    public void Main()
+    public static void BoolExample()
     {
         bool ativo = false;
         bool ativo2 = true;

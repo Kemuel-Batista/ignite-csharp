@@ -1,12 +1,12 @@
 ﻿namespace csharp_02_fundamentals.primitives_types;
 
-public class text
+public class Text
 {
-    public void Main()
+    public static void TextExample()
     {
-        char letter = 'a';
-        char number = '1';
-        char caracter '@';
+        // char letter = 'a';
+        // char number = '1';
+        // char caracter '@';
 
         string text = "Este curso é muito bom";
         char firstLetterOftext = text[0];

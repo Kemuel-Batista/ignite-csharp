@@ -9,7 +9,7 @@ public class Enums
         Alto = 2
     }
 
-    public void Main()
+    public static void EnumExample()
     {
         NivelDeDificuldade nivel = NivelDeDificuldade.Alto;
 

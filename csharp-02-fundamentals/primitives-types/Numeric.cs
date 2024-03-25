@@ -2,7 +2,7 @@
 
 public class Numeric
 {
-    public void Main()
+    public static void NumericExample()
     {
         int number = 7;
         long number2 = 7;

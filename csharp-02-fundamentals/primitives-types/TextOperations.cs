@@ -2,7 +2,7 @@
 
 public class TextOperations
 {
-    public void Main()
+    public static void TextOperationsExample()
     {
         /* 
         Código da primeira parte da aula

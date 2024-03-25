@@ -2,7 +2,7 @@
 
 public class Var
 {
-    public void Main()
+    public static void VarExample()
     {
         string nome = "Welisson Arley";
         int meuNumero = 7;
